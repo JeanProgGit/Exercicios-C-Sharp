@@ -1,0 +1,13 @@
+D:\Curso C#\Seção 3\AppS3A30\AppS3A30\bin\Debug\netcoreapp3.1\AppS3A30.exe
+D:\Curso C#\Seção 3\AppS3A30\AppS3A30\bin\Debug\netcoreapp3.1\AppS3A30.deps.json
+D:\Curso C#\Seção 3\AppS3A30\AppS3A30\bin\Debug\netcoreapp3.1\AppS3A30.runtimeconfig.json
+D:\Curso C#\Seção 3\AppS3A30\AppS3A30\bin\Debug\netcoreapp3.1\AppS3A30.runtimeconfig.dev.json
+D:\Curso C#\Seção 3\AppS3A30\AppS3A30\bin\Debug\netcoreapp3.1\AppS3A30.dll
+D:\Curso C#\Seção 3\AppS3A30\AppS3A30\bin\Debug\netcoreapp3.1\AppS3A30.pdb
+D:\Curso C#\Seção 3\AppS3A30\AppS3A30\obj\Debug\netcoreapp3.1\AppS3A30.csprojAssemblyReference.cache
+D:\Curso C#\Seção 3\AppS3A30\AppS3A30\obj\Debug\netcoreapp3.1\AppS3A30.AssemblyInfoInputs.cache
+D:\Curso C#\Seção 3\AppS3A30\AppS3A30\obj\Debug\netcoreapp3.1\AppS3A30.AssemblyInfo.cs
+D:\Curso C#\Seção 3\AppS3A30\AppS3A30\obj\Debug\netcoreapp3.1\AppS3A30.csproj.CoreCompileInputs.cache
+D:\Curso C#\Seção 3\AppS3A30\AppS3A30\obj\Debug\netcoreapp3.1\AppS3A30.dll
+D:\Curso C#\Seção 3\AppS3A30\AppS3A30\obj\Debug\netcoreapp3.1\AppS3A30.pdb
+D:\Curso C#\Seção 3\AppS3A30\AppS3A30\obj\Debug\netcoreapp3.1\AppS3A30.genruntimeconfig.cache

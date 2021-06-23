@@ -1,0 +1,13 @@
+D:\Curso C#\Seção 3\AppS3A33Ex01\obj\Debug\netcoreapp3.1\AppS3A33Ex01.csprojAssemblyReference.cache
+D:\Curso C#\Seção 3\AppS3A33Ex01\obj\Debug\netcoreapp3.1\AppS3A33Ex01.AssemblyInfoInputs.cache
+D:\Curso C#\Seção 3\AppS3A33Ex01\obj\Debug\netcoreapp3.1\AppS3A33Ex01.AssemblyInfo.cs
+D:\Curso C#\Seção 3\AppS3A33Ex01\obj\Debug\netcoreapp3.1\AppS3A33Ex01.csproj.CoreCompileInputs.cache
+D:\Curso C#\Seção 3\AppS3A33Ex01\bin\Debug\netcoreapp3.1\AppS3A33Ex01.exe
+D:\Curso C#\Seção 3\AppS3A33Ex01\bin\Debug\netcoreapp3.1\AppS3A33Ex01.deps.json
+D:\Curso C#\Seção 3\AppS3A33Ex01\bin\Debug\netcoreapp3.1\AppS3A33Ex01.runtimeconfig.json
+D:\Curso C#\Seção 3\AppS3A33Ex01\bin\Debug\netcoreapp3.1\AppS3A33Ex01.runtimeconfig.dev.json
+D:\Curso C#\Seção 3\AppS3A33Ex01\bin\Debug\netcoreapp3.1\AppS3A33Ex01.dll
+D:\Curso C#\Seção 3\AppS3A33Ex01\bin\Debug\netcoreapp3.1\AppS3A33Ex01.pdb
+D:\Curso C#\Seção 3\AppS3A33Ex01\obj\Debug\netcoreapp3.1\AppS3A33Ex01.dll
+D:\Curso C#\Seção 3\AppS3A33Ex01\obj\Debug\netcoreapp3.1\AppS3A33Ex01.pdb
+D:\Curso C#\Seção 3\AppS3A33Ex01\obj\Debug\netcoreapp3.1\AppS3A33Ex01.genruntimeconfig.cache
